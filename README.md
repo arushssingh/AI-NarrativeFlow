@@ -42,7 +42,7 @@ This project blends **visual storytelling**, **emotion-driven narration**, and *
 ---
 ## 🛠️ Pipeline Blueprint
 
-![pipeline](https://github.com/arushssingh/AI-NarrativeFlow/main/assets/pipeline.png)
+![pipeline](https://github.com/arushssingh/AI-NarrativeFlow/blob/main/assets/pipeline.png)
 
 | Layer                     | Components                     | Description                                       |
 | ------------------------- | ------------------------------ | ------------------------------------------------- |
