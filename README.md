@@ -72,8 +72,6 @@ AI-NarrativeFlow/
 ├─ main.py    # Core backend functions
 ├─ app.py     # Streamlit frontend for user interaction
 ├── assets/                        
-│   ├── appInterface_1.png            # e.g., image upload + user choice filling  
-│   ├── appInterface_2.png            # e.g., output story with audio 
 │   └── pipeline.png                  # working pipeline
 ├─ requirements.txt # Python dependencies
 └─ README.md # Project documentation
@@ -85,7 +83,7 @@ AI-NarrativeFlow/
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/SannidhyaDas/AI-NarrativeFlow.git
+git clone https://github.com/arushssingh/AI-NarrativeFlow.git
 cd AI-NarrativeFlow
 ```
 
